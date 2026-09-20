@@ -1,0 +1,11 @@
+# Build output configured by Projects/MDK-ARM/atk_f103.uvprojx
+/Output/
+
+# Personal Keil window layouts
+*.uvguix*
+*.uvgui*
+
+# Temporary files and editor backups
+*.bak
+*.tmp
+*~
